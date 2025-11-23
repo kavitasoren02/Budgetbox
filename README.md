@@ -15,9 +15,8 @@ An offline-first personal budgeting application built with Next.js and Express, 
 ## Tech Stack
 
 ### Frontend
-- **Next.js 15** (App Router)
-- **React 18** + TypeScript
-- **TailwindCSS V4** - Utility-first styling
+- **Next.js (App Router)
+- **TailwindCSS - Utility-first styling
 - **Zustand** - State management
 - **IndexedDB** (via IDB) - Local storage
 - **Recharts** - Data visualization
