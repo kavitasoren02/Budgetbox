@@ -216,3 +216,14 @@ GET /api/budget/latest
 - Optimistic UI updates
 - Connection-aware sync
 
+## Login Page
+
+![Login Page](./Screenshots/Login.png)
+
+## Dashboard Page
+
+![Dashboard Page](./Screenshots/Dashboard.png)
+
+## Budget Form
+
+![Budget Form](./Screenshots/Budget%20form.png)
