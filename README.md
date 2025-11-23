@@ -227,3 +227,7 @@ GET /api/budget/latest
 ## Budget Form
 
 ![Budget Form](./Screenshots/Budget%20form.png)
+
+## Architecture Diagram
+
+![Architecture Diagram](./Screenshots//Architecture%20Diagram.jpeg)
